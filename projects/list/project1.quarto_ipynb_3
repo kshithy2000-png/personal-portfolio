@@ -1,0 +1,62 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Project 1: Data Analysis Example\"\n",
+        "description: \"A simple data analysis project using Python\"\n",
+        "author: \"Jayant Shah\"\n",
+        "date: \"2023-01-01\"\n",
+        "categories: [python, data]\n",
+        "---\n",
+        "\n",
+        "## Overview\n",
+        "\n",
+        "This project demonstrates basic data analysis with Python."
+      ],
+      "id": "019c2d7b"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import pandas as pd\n",
+        "import matplotlib.pyplot as plt\n",
+        "\n",
+        "# Sample data\n",
+        "data = {'x': [1, 2, 3, 4, 5], 'y': [2, 4, 6, 8, 10]}\n",
+        "df = pd.DataFrame(data)\n",
+        "\n",
+        "# Plot\n",
+        "plt.plot(df['x'], df['y'])\n",
+        "plt.title('Sample Plot')\n",
+        "plt.show()"
+      ],
+      "id": "91f6d705",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Conclusion\n",
+        "\n",
+        "This shows how to use Python for data visualization."
+      ],
+      "id": "8cfda640"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/jayantshah/personal-portfolio/.venv/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

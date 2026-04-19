@@ -1,0 +1,156 @@
+/*-- scss:defaults --*/
+
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+/* Font */
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+/* Colors */
+$body-bg: #f8fafc;         // light background
+$body-color: #1e293b;      // dark text
+$primary: #1d4ed8;         // blue accent
+$secondary: #64748b;       // gray tone
+$navbar-bg: #0f172a;       // dark navbar
+$navbar-fg: #ffffff;
+$surface-color: #ffffff;   // added for theme compatibility
+$primary-color: #1d4ed8;   // added for theme compatibility
+
+// Additional Bootstrap variables for Lux theme
+$success: #10b981;
+$info: #06b6d4;
+$warning: #f59e0b;
+$danger: #ef4444;
+$light: #f1f5f9;
+$dark: #0f172a;
+$white: #ffffff;
+$black: #000000;
+$gray-100: #f8fafc;
+$gray-200: #e2e8f0;
+$gray-300: #cbd5e1;
+$gray-400: #94a3b8;
+$gray-500: #64748b;
+$gray-600: #475569;
+$gray-700: #334155;
+$gray-800: #1e293b;
+$gray-900: #0f172a;
+
+/* Border radius for modern look */
+$border-radius: 0.75rem;
+
+
+/*-- scss:rules --*/
+
+/* Navbar styling */
+.navbar {
+  background-color: $navbar-bg !important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: $navbar-fg !important;
+}
+
+.navbar .nav-link:hover {
+  color: #cbd5e1 !important;
+}
+
+/* Main content card effect */
+.quarto-about-jolla {
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1rem;
+  color: #334155;
+}
+
+/* Links */
+a {
+  color: $primary;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Sidebar */
+#TOC {
+  background: white;
+  padding: 1rem;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+}
+
+/* Footer */
+.footer {
+  background: #0f172a;
+  color: #e2e8f0;
+}
+
+/* Custom elements */
+.custom-goals {
+  border-left: 4px solid $primary;
+  font-style: italic;
+}
+
+.highlight-box {
+  margin: 2rem 0;
+  font-weight: 600;
+}
+
+.about-hero {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+/* Mermaid diagram styling */
+.mermaid {
+  text-align: center;
+}
+
+/* Video styling */
+.quarto-video {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.home-page section {
+  background-color: $surface-color;
+  border: 1px solid $border-color;
+  border-radius: 1rem;
+  padding: 1.8rem 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.home-page h2 {
+  color: $primary-color;
+  margin-bottom: 1rem;
+}
+
+.home-page ul {
+  margin-left: 1.2rem;
+}
+
+.home-page li {
+  margin-bottom: 0.65rem;
+}
+
+@media (max-width: 768px) {
+  .home-page .quarto-title-block,
+  .home-page section {
+    padding: 1.5rem 1.25rem;
+  }
+}

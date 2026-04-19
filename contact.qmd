@@ -1,0 +1,14 @@
+---
+title: "Contact & References"
+---
+
+## Contact Information
+
+- Email: your.email@example.com
+- LinkedIn: [link]
+- GitHub: [link]
+
+## References
+
+- [Reference 1]
+- [Reference 2]

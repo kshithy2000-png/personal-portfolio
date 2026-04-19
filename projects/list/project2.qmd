@@ -1,0 +1,27 @@
+---
+title: "Project 2: Web Scraping"
+description: "A web scraping example"
+author: "Kshithy"
+date: "2023-02-01"
+categories: [python, web]
+---
+
+## Overview
+
+This project scrapes data from a website.
+
+```{python}
+import requests
+from bs4 import BeautifulSoup
+
+# Note: This is a placeholder, actual scraping requires careful consideration of terms of service
+url = 'https://example.com'
+response = requests.get(url)
+soup = BeautifulSoup(response.text, 'html.parser')
+
+print("Title:", soup.title.string)
+```
+
+## Conclusion
+
+Web scraping can be useful for data collection.

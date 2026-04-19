@@ -1,0 +1,29 @@
+---
+title: "Project 1: Data Analysis Example"
+description: "A simple data analysis project using Python"
+author: "Kshithy"
+date: "2023-01-01"
+categories: [python, data]
+---
+
+## Overview
+
+This project demonstrates basic data analysis with Python.
+
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Sample data
+data = {'x': [1, 2, 3, 4, 5], 'y': [2, 4, 6, 8, 10]}
+df = pd.DataFrame(data)
+
+# Plot
+plt.plot(df['x'], df['y'])
+plt.title('Sample Plot')
+plt.show()
+```
+
+## Conclusion
+
+This shows how to use Python for data visualization.

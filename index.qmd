@@ -1,0 +1,49 @@
+---
+title: "Ksithy"
+format:
+  html:
+    classes: [home-page]
+about:
+  template: jolla
+  image: images/profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kshithy-ravindran-443189266/
+    - icon: github
+      text: GitHub
+      href: https://github.com/kshithy2000-png
+    - icon: envelope
+      text: Email
+      href: mailto:contact@kshithy.com
+---
+
+::: {.callout-note}
+## Welcome {{< fa wave-square >}}
+I am a technical professional focused on creating clean, dependable solutions with Python, data analysis, and modern web development.
+:::
+
+This portfolio highlights projects, professional experience, and the tools I use to solve real problems.
+
+## Highlights
+
+- {{< fa python >}} Experienced in Python development and data-driven workflows
+- {{< fa globe >}} Skilled in building user-focused web and application solutions
+- {{< fa comments >}} Strong communicator who values clarity and reliability
+
+## Current Focus
+
+- [x] Building this professional portfolio
+- [ ] Expanding data visualization skills
+- [ ] Learning advanced cloud technologies
+- [ ] Contributing to open-source projects
+
+::: {.highlight-box .bg-primary .text-white .p-3 .rounded}
+**Key Strength:** Combining technical expertise with business acumen to deliver impactful solutions.
+:::
+
+## Objectives
+
+- Develop polished digital work with a practical business focus
+- Maintain strong collaboration across technical teams
+- Continue growing skills through real-world projects

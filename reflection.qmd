@@ -1,0 +1,44 @@
+---
+title: "Reflection"
+---
+
+## What I Learned
+
+Throughout this module, I learned:
+
+- How to use Quarto for creating websites
+- Python programming for data analysis
+- Version control with Git
+- Publishing on GitHub Pages
+
+## Challenges Faced
+
+- Setting up the environment
+- Debugging code
+
+::: {.callout-warning}
+## Warning
+Avoid common mistakes like uploading files manually.
+:::
+
+## Future Plans
+
+I plan to continue developing my skills in [areas].
+
+### Equation
+
+$$ E = mc^2 $$
+
+### Mermaid Diagram
+
+```{mermaid}
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+### Embedded Video
+
+{{< video https://www.youtube.com/watch?v=dQw4w9WgXcQ >}}

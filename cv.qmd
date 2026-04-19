@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+---
+
+# My CV
+
+Here's my current CV. You can also [download it as a PDF](cv/CV.pdf).
+
+<iframe src="cv/CV.pdf" width="100%" height="800px" style="border: none;"></iframe>

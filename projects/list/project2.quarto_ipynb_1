@@ -1,0 +1,60 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Project 2: Web Scraping\"\n",
+        "description: \"A web scraping example\"\n",
+        "author: \"Jayant Shah\"\n",
+        "date: \"2023-02-01\"\n",
+        "categories: [python, web]\n",
+        "---\n",
+        "\n",
+        "## Overview\n",
+        "\n",
+        "This project scrapes data from a website."
+      ],
+      "id": "b05906ec"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import requests\n",
+        "from bs4 import BeautifulSoup\n",
+        "\n",
+        "# Note: This is a placeholder, actual scraping requires careful consideration of terms of service\n",
+        "url = 'https://example.com'\n",
+        "response = requests.get(url)\n",
+        "soup = BeautifulSoup(response.text, 'html.parser')\n",
+        "\n",
+        "print(\"Title:\", soup.title.string)"
+      ],
+      "id": "d6b1f2a4",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Conclusion\n",
+        "\n",
+        "Web scraping can be useful for data collection."
+      ],
+      "id": "e938e0d6"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/jayantshah/personal-portfolio/.venv/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing:
+  type: grid
+  contents: list
+  sort: "date desc"
+  categories: true
+---
+
+Here are some of my projects.

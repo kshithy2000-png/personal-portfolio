@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My CV\nHere’s my current CV. You can also download it as a PDF."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ksithy",
+    "section": "",
+    "text": "NoteWelcome \n\n\n\nI am a technical professional focused on creating clean, dependable solutions with Python, data analysis, and modern web development.\nThis portfolio highlights projects, professional experience, and the tools I use to solve real problems."
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Ksithy",
+    "section": "Highlights",
+    "text": "Highlights\n\n Experienced in Python development and data-driven workflows\n Skilled in building user-focused web and application solutions\n Strong communicator who values clarity and reliability"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Ksithy",
+    "section": "Current Focus",
+    "text": "Current Focus\n\nBuilding this professional portfolio\nExpanding data visualization skills\nLearning advanced cloud technologies\nContributing to open-source projects\n\n\nKey Strength: Combining technical expertise with business acumen to deliver impactful solutions."
+  },
+  {
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
+    "title": "Ksithy",
+    "section": "Objectives",
+    "text": "Objectives\n\nDevelop polished digital work with a practical business focus\nMaintain strong collaboration across technical teams\nContinue growing skills through real-world projects"
+  },
+  {
+    "objectID": "projects/list/project1.html",
+    "href": "projects/list/project1.html",
+    "title": "Project 1: Data Analysis Example",
+    "section": "",
+    "text": "This project demonstrates basic data analysis with Python.\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n# Sample data\ndata = {'x': [1, 2, 3, 4, 5], 'y': [2, 4, 6, 8, 10]}\ndf = pd.DataFrame(data)\n\n# Plot\nplt.plot(df['x'], df['y'])\nplt.title('Sample Plot')\nplt.show()"
+  },
+  {
+    "objectID": "projects/list/project1.html#overview",
+    "href": "projects/list/project1.html#overview",
+    "title": "Project 1: Data Analysis Example",
+    "section": "",
+    "text": "This project demonstrates basic data analysis with Python.\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n# Sample data\ndata = {'x': [1, 2, 3, 4, 5], 'y': [2, 4, 6, 8, 10]}\ndf = pd.DataFrame(data)\n\n# Plot\nplt.plot(df['x'], df['y'])\nplt.title('Sample Plot')\nplt.show()"
+  },
+  {
+    "objectID": "projects/list/project1.html#conclusion",
+    "href": "projects/list/project1.html#conclusion",
+    "title": "Project 1: Data Analysis Example",
+    "section": "Conclusion",
+    "text": "Conclusion\nThis shows how to use Python for data visualization."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "Throughout this module, I learned:\n\nHow to use Quarto for creating websites\nPython programming for data analysis\nVersion control with Git\nPublishing on GitHub Pages"
+  },
+  {
+    "objectID": "reflection.html#what-i-learned",
+    "href": "reflection.html#what-i-learned",
+    "title": "Reflection",
+    "section": "",
+    "text": "Throughout this module, I learned:\n\nHow to use Quarto for creating websites\nPython programming for data analysis\nVersion control with Git\nPublishing on GitHub Pages"
+  },
+  {
+    "objectID": "reflection.html#challenges-faced",
+    "href": "reflection.html#challenges-faced",
+    "title": "Reflection",
+    "section": "Challenges Faced",
+    "text": "Challenges Faced\n\nSetting up the environment\nDebugging code\n\n\n\n\n\n\n\nWarningWarning\n\n\n\nAvoid common mistakes like uploading files manually."
+  },
+  {
+    "objectID": "reflection.html#future-plans",
+    "href": "reflection.html#future-plans",
+    "title": "Reflection",
+    "section": "Future Plans",
+    "text": "Future Plans\nI plan to continue developing my skills in [areas].\n\nEquation\n\\[ E = mc^2 \\]\n\n\nMermaid Diagram\n\n\n\n\n\ngraph TD;\n    A--&gt;B;\n    A--&gt;C;\n    B--&gt;D;\n    C--&gt;D;\n\n\n\n\n\n\n\n\nEmbedded Video"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact & References",
+    "section": "",
+    "text": "Email: your.email@example.com\nLinkedIn: [link]\nGitHub: [link]"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact & References",
+    "section": "",
+    "text": "Email: your.email@example.com\nLinkedIn: [link]\nGitHub: [link]"
+  },
+  {
+    "objectID": "contact.html#references",
+    "href": "contact.html#references",
+    "title": "Contact & References",
+    "section": "References",
+    "text": "References\n\n[Reference 1]\n[Reference 2]"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of my projects.\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2: Web Scraping\n\n\n\npython\n\nweb\n\n\n\nA web scraping example\n\n\n\nKshithy\n\n\nFeb 1, 2023\n\n\n\n\n\n\n\n\n\n\n\nProject 1: Data Analysis Example\n\n\n\npython\n\ndata\n\n\n\nA simple data analysis project using Python\n\n\n\nKshithy\n\n\nJan 1, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/list/project2.html",
+    "href": "projects/list/project2.html",
+    "title": "Project 2: Web Scraping",
+    "section": "",
+    "text": "This project scrapes data from a website.\n\nimport requests\nfrom bs4 import BeautifulSoup\n\n# Note: This is a placeholder, actual scraping requires careful consideration of terms of service\nurl = 'https://example.com'\nresponse = requests.get(url)\nsoup = BeautifulSoup(response.text, 'html.parser')\n\nprint(\"Title:\", soup.title.string)\n\nTitle: Example Domain"
+  },
+  {
+    "objectID": "projects/list/project2.html#overview",
+    "href": "projects/list/project2.html#overview",
+    "title": "Project 2: Web Scraping",
+    "section": "",
+    "text": "This project scrapes data from a website.\n\nimport requests\nfrom bs4 import BeautifulSoup\n\n# Note: This is a placeholder, actual scraping requires careful consideration of terms of service\nurl = 'https://example.com'\nresponse = requests.get(url)\nsoup = BeautifulSoup(response.text, 'html.parser')\n\nprint(\"Title:\", soup.title.string)\n\nTitle: Example Domain"
+  },
+  {
+    "objectID": "projects/list/project2.html#conclusion",
+    "href": "projects/list/project2.html#conclusion",
+    "title": "Project 2: Web Scraping",
+    "section": "Conclusion",
+    "text": "Conclusion\nWeb scraping can be useful for data collection."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a results-driven technical professional with a strong foundation in analytics, software development, and digital product delivery. I combine practical industry experience with a disciplined approach to problem solving, delivering reliable solutions that support business goals and improve operational efficiency.\n\nDriving cross-functional collaboration to build polished products \nTranslating business needs into scalable technical solutions \nUsing data to inform decisions and improve outcomes \nCommitting to clear communication and quality execution"
+  },
+  {
+    "objectID": "about.html#core-expertise",
+    "href": "about.html#core-expertise",
+    "title": "About",
+    "section": "Core Expertise",
+    "text": "Core Expertise\n\n\n\n\n\n\nNoteTechnical Leadership\n\n\n\nTranslating business needs into scalable technical solutions with a focus on maintainability and performance.\n\n\n\n\n\n\n\n\nTipDevelopment Approach\n\n\n\nBuilding maintainable applications using Python and modern web technologies, following best practices for code quality and testing."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n\n[Data Analyst], [Tech Company] — [2022-Present]\n\nDelivered technical solutions aligned to product goals and stakeholder requirements.\nImproved project efficiency through clear documentation, testing, and process refinement.\nCollaborated with designers, engineers, and business teams to deliver polished outcomes."
+  },
+  {
+    "objectID": "about.html#professional-goals",
+    "href": "about.html#professional-goals",
+    "title": "About",
+    "section": "Professional Goals",
+    "text": "Professional Goals\n\nI am focused on continuing to grow my technical expertise, contributing to impactful projects, and building a portfolio of work that reflects strong execution, craftsmanship, and professional growth.\n\n\nSkills Overview\n\nMy technical skill set and proficiency levels\n\n\n\n\n\n\n\nCategory\nSkills\nProficiency\n\n\n\n\nProgramming\nPython, JavaScript\nExpert     \n\n\nData Analysis\nSQL, Pandas, NumPy\nAdvanced    \n\n\nWeb Development\nHTML, CSS, React\nIntermediate   \n\n\nTools\nGit, Docker, AWS\nProficient    \n\n\n\n\n\n\n\nMy workspace setup for efficient development"
+  },
+  {
+    "objectID": "about.html#workflow-process",
+    "href": "about.html#workflow-process",
+    "title": "About",
+    "section": "Workflow Process",
+    "text": "Workflow Process\ngraph TD\n    A[Requirements Gathering] --&gt; B[Analysis & Planning]\n    B --&gt; C[Development]\n    C --&gt; D[Testing]\n    D --&gt; E[Deployment]\n    E --&gt; F[Monitoring]\n    F --&gt; G{Performance OK?}\n    G --&gt;|Yes| H[Maintenance]\n    G --&gt;|No| I[Optimization]\n    I --&gt; F"
+  },
+  {
+    "objectID": "about.html#key-achievements",
+    "href": "about.html#key-achievements",
+    "title": "About",
+    "section": "Key Achievements",
+    "text": "Key Achievements"
+  },
+  {
+    "objectID": "about.html#project-impact",
+    "href": "about.html#project-impact",
+    "title": "About",
+    "section": "Project Impact",
+    "text": "Project Impact\nSuccessfully delivered a data analytics platform that reduced reporting time by 60% and improved decision-making accuracy across the organization."
+  },
+  {
+    "objectID": "about.html#current-learning-path",
+    "href": "about.html#current-learning-path",
+    "title": "About",
+    "section": "Current Learning Path",
+    "text": "Current Learning Path\n\nMaster advanced Python concepts\nLearn cloud architecture patterns\nComplete machine learning certification\nContribute to open-source projects\nBuild personal portfolio website"
+  },
+  {
+    "objectID": "about.html#mathematical-foundation",
+    "href": "about.html#mathematical-foundation",
+    "title": "About",
+    "section": "Mathematical Foundation",
+    "text": "Mathematical Foundation\nThe efficiency of algorithms can be measured using Big O notation1:\n\\[O(n) = \\sum_{i=1}^{n} i = \\frac{n(n+1)}{2}\\]"
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nBig O notation describes the upper bound of algorithm complexity.↩︎"
+  }
+]

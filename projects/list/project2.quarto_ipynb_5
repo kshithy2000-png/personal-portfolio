@@ -1,0 +1,59 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Project 2: Web Scraping\"\n",
+        "description: \"A web scraping example\"\n",
+        "author: \"Kshithy\"\n",
+        "date: \"2023-02-01\"\n",
+        "categories: [python, web]\n",
+        "---\n",
+        "\n",
+        "## Overview\n",
+        "\n",
+        "This project scrapes data from a website."
+      ],
+      "id": "493c9982"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import requests\n",
+        "from bs4 import BeautifulSoup\n",
+        "\n",
+        "# Note: This is a placeholder, actual scraping requires careful consideration of terms of service\n",
+        "url = 'https://example.com'\n",
+        "response = requests.get(url)\n",
+        "soup = BeautifulSoup(response.text, 'html.parser')\n",
+        "\n",
+        "print(\"Title:\", soup.title.string)"
+      ],
+      "id": "10a85117",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## Conclusion\n",
+        "\n",
+        "Web scraping can be useful for data collection."
+      ],
+      "id": "3ba24f9b"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

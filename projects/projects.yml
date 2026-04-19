@@ -1,0 +1,15 @@
+- title: "Project 1"
+  description: "Description of project 1"
+  author: "Jayant Shah"
+  date: "2023-01-01"
+  image: images/project1.jpg
+  categories: [python, data]
+  href: list/project1.qmd
+
+- title: "Project 2"
+  description: "Description of project 2"
+  author: "Jayant Shah"
+  date: "2023-02-01"
+  image: images/project2.jpg
+  categories: [web]
+  href: list/project2.qmd
